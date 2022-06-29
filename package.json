@@ -1,5 +1,5 @@
 {
-  "name": "terraria_auto_fishing",
+  "name": "terrariaautofishing",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cit-120v/Terraria_Auto_Fishing.git"
+    "url": "git+https://github.com/Dewwine/TerrariaAutoFishing.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cit-120v/Terraria_Auto_Fishing/issues"
+    "url": "https://github.com/Dewwine/TerrariaAutoFishing/issues"
   },
-  "homepage": "https://github.com/cit-120v/Terraria_Auto_Fishing#readme",
+  "homepage": "https://github.com/Dewwine/TerrariaAutoFishing#readme",
   "dependencies": {
     "active-win": "^7.6.1",
     "fuzzball": "^2.1.2",
     "node-cron": "^3.0.0",
-    "node-tesseract-ocr": "^2.2.1",
     "robotjs": "^0.6.0",
     "win-screenshot": "^1.0.4"
   }
